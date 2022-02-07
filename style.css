@@ -24,12 +24,12 @@ a {
 .hello {
     padding-top: 50px;
     display: flex;
-    padding-left: 850px;
-    justify-content: space-between;
-    margin-right: 800px;
+    justify-content: center;
     align-items: center;
     padding-bottom: 50px;
 }
+
+.hello img{margin-right: 20px;}
 
 .about-game {
     font-family: 'Press Start 2P', cursive;
