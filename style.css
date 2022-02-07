@@ -22,11 +22,13 @@ a {
 }
 
 .hello {
-    padding-top: 90px;
+    padding-top: 50px;
     display: flex;
     padding-left: 850px;
     justify-content: space-between;
     margin-right: 800px;
+    align-items: center;
+    padding-bottom: 50px;
 }
 
 .about-game {
