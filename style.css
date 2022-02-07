@@ -9,9 +9,26 @@ h1 {
 }
 
 .enter-h2 {
-    font-family: 'Press Start 2P',cursive;
+    font-family: 'Press Start 2P', cursive;
 }
 
 a {
     color: white;
+}
+
+.cat {
+    width: 280px;
+    border-radius: 20%;
+}
+
+.hello {
+    padding-top: 90px;
+    display: flex;
+    padding-left: 850px;
+    justify-content: space-between;
+    margin-right: 800px;
+}
+
+.about-game {
+    font-family: 'Press Start 2P', cursive;
 }
